@@ -39,6 +39,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-For any questions, feel free to reach out to me at firestacks@duck.com.
+For any questions, feel free to reach out to me at Discord - @fire_stacks.
 
 ---
