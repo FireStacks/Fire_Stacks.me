@@ -1,6 +1,6 @@
 # 🔥 firestacks.me
 
-![Website Banner](https://i.postimg.cc/7Yp5JSst/image.png)
+![Website Banner](https://i.postimg.cc/9374b73image.png)
 
 ## 🚧 Under Construction 🚧
 
